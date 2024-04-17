@@ -15,6 +15,7 @@ Layout Flexível: Utilização de técnicas de layout flexível e media queries 
 ## Como Utilizar
 Clone este repositório em sua máquina local.
 
+git clone https://github.com/devlaysz/cadastro-form.git
 
 Abra o arquivo index.html em seu navegador web.
 
